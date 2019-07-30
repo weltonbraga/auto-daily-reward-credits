@@ -1,5 +1,7 @@
 {
-	"files": {
-		"index.js": "6fb069fb250684d437701c66b115e5e5dbc46a54abc44b7f1e4b2653e30df854"
-	}
+  "files": {
+    "index.js": "015bccdf9ebbfaa6f066185df8922c4d6ee86e5fac98a9683f5089b3c386e00d",
+    "module.json": "612d4d80cf8d739f466423e7c6a55b601f9230567b35b44fa735b7341eec731c",
+    "README.MD": "82812902b745d6190d06328030f709bf8e4a4b8a5230d792316355a058d4156b"
+  }
 }
